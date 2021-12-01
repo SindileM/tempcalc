@@ -1,0 +1,13 @@
+/* #div1{ */
+    /* text-align: center; */
+/* } */
+
+#degFahren.inputs{
+    height:100px ;
+    width: 200px;
+}
+
+#degCelsius.inputs{
+    height: 100px;
+    width: 200px;
+}
